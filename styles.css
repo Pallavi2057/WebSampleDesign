@@ -1,0 +1,132 @@
+.body{
+    width: 500px;
+    height: auto;
+}
+
+.nav1 {
+   font-family: 'Times New Roman', Times, serif;
+   background-color: rgb(129, 129, 129);
+   color: rgb(255, 255, 255);
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   gap: 100px;
+   font-size: x-large;
+   padding-top: 15px;
+   padding-bottom: 15px;
+
+   
+}
+
+.image1 img{
+    width: 100%;
+    height: 550px;
+}
+
+.heading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:500px;
+}
+
+.para img{
+    width: 300px;
+    height: 300px;
+    
+  
+}
+
+.para {
+    display: flex;
+    gap: 170px;
+    align-items: center;
+  }
+.para1,.para2{
+    display: flex;
+   gap: 20px;
+   
+  
+}
+
+.text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 280px;
+    padding-right: 40px;
+    padding-left: 30px;
+}
+
+.text p{
+    color: rgb(250, 105, 8);
+}
+
+.image2 img{
+    width: 700px;
+    height: 400px;
+   padding-bottom: 10px;
+   padding-right: 5px;
+   padding-left: 5px;
+}
+
+.maincontainer {
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    padding-right: 110px;
+   padding-bottom: 40px;
+   padding-left: 30px;
+   
+  }
+
+  .maincontainer h2{
+  
+    padding-bottom: 20px;
+
+  }
+
+.maincontainer h3{
+    color:rgb(250, 105, 8);
+}
+  
+.rightbox{
+    padding-left: 60px;
+}
+.textbox{
+    display: flex;
+    justify-content: left;
+    gap:20px;
+
+}
+  .textbox1{
+    width: 300px;
+    height: 25px;
+    
+  }
+
+
+ .button1{
+    background-color: rgb(250, 105, 8);
+    color: #fff;
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+
+ }
+
+
+ .footer1{
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size:larger;
+    background-color: rgb(129, 129, 129);
+    gap: 30px;
+    color: #fff;
+    
+    
+}
+
